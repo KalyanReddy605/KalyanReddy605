@@ -1,143 +1,133 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== PREMIUM ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Satti+Lakshman+Kalyan+Sri+Rama+Reddy;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Healthcare+Systems;Clean+Architecture+%7C+Secure+APIs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2563EB&height=200&section=header&text=Satti%20Lakshman%20Kalyan%20Sri%20Rama%20Reddy&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">
-Backend Software Engineer • Java • Spring Boot • Microservices • REST APIs • MySQL
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2200&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Designing+Scalable+Healthcare+Systems;REST+APIs+%7C+JWT+Security+%7C+Clean+Architecture;Turning+Business+Logic+Into+Reliable+Backend+Behavior"/>
+</p>
 
 <p align="center">
   <a href="mailto:kalyanreddy16243@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kalyan-reddy-satti-205774226/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/KalyanReddy605">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=KalyanReddy605&style=for-the-badge&color=0A66C2"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am a Backend Software Engineer at **Longbow Technologies**, building scalable healthcare and CRM platforms using Java and Spring Boot.
+Backend Software Engineer specializing in building scalable, secure, and maintainable systems using **Java & Spring Boot**.
 
-I specialize in transforming real-world workflows into reliable backend systems.
+Currently working on healthcare and CRM platforms where I:
 
-✔ RESTful API Development  
-✔ Role-Based Authentication & Authorization (Spring Security + JWT)  
-✔ Database Schema Design & Optimization  
-✔ Transaction Management & Exception Handling  
-✔ Clean Layered Architecture (Controller → Service → Repository)
+- Design layered architectures (Controller → Service → Repository)
+- Implement JWT-based authentication & role-based authorization
+- Optimize MySQL database performance
+- Handle transactional consistency in real-world workflows
+- Build production-ready REST APIs
 
-> I don’t just build endpoints. I build backend behavior.
+> I engineer backend systems that behave correctly under real-world complexity.
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 Tech Arsenal
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,sql" />
-</p>
-
-### ⚙ Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
-
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🛠 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,postman,idea&perline=8" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🏥 Core Project — Appointment Management System
 
-## 🏥 Appointment Management System – Healthcare Platform
+Enterprise-grade healthcare workflow platform.
 
-A full healthcare appointment workflow system designed to manage patient registration, doctor scheduling, and booking lifecycle.
+### Features
+✔ Dynamic doctor slot scheduling  
+✔ Secure OTP-based authentication  
+✔ Role-based access (Admin, Doctor, Patient)  
+✔ Email notification workflows  
+✔ Transaction-safe booking & cancellation  
 
-### 🔑 Key Features
-- Dynamic doctor time-slot management
-- Secure login with OTP-based verification
-- Role-based access control (Admin, Doctor, Patient)
-- Email notifications for onboarding & confirmations
-- Transaction-safe booking & cancellation handling
+### Architecture
+Clean Layered Architecture  
+Controller → Service → Repository → Database  
 
-### 🏗 Architecture
-Controller → Service → Repository → Database
-
-### 🔄 Appointment Lifecycle
+### Workflow Lifecycle
 `SCHEDULED → CONFIRMED → COMPLETED → CANCELLED`
 
 ---
 
-## 🏢 WhiteCoats – CRM Web-Based Platform
+# 🏢 CRM Platform — WhiteCoats
 
-A scalable CRM backend system built using Spring Boot & MySQL.
+Scalable CRM backend with secure API integrations.
 
-### 🔑 Key Features
-- JWT-based authentication using Spring Security
-- DTO pattern with ModelMapper
-- Hibernate ORM with optimized entity relationships
-- Pagination & sorting APIs
-- Centralized exception handling using @ControllerAdvice
-- Third-party API integration (Zoho CRM)
-- Performance tuning & query optimization
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalyanReddy605&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanReddy605" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanReddy605&layout=compact"/>
-</p>
-
----
-
-# 🧠 Engineering Practices
-
-✔ Clean Architecture  
-✔ DTO Pattern & Validation  
-✔ Defensive Coding  
-✔ Transaction Management  
+✔ JWT Security (Spring Security)  
+✔ DTO Pattern + ModelMapper  
+✔ Pagination & Sorting APIs  
+✔ Zoho CRM Third-party Integration  
 ✔ Global Exception Handling  
-✔ Performance Optimization  
+✔ Query Optimization & Indexing  
 
 ---
 
-# 📚 Currently Learning
+# 📊 Performance Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KalyanReddy605&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanReddy605&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanReddy605&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Engineering Mindset
+
+✔ Clean Code Principles  
+✔ Secure API Design  
+✔ Defensive Validation  
+✔ Transaction Management  
+✔ Performance Optimization  
+✔ Production Debugging  
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/KalyanReddy605/KalyanReddy605/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📚 Currently Advancing In
 
 - Microservices Architecture  
 - System Design  
-- Query Optimization  
+- Distributed Systems  
 - Advanced Spring Security  
 
 ---
 
-# 🤝 Let’s Connect
+# 🤝 Let’s Build Something Scalable
 
 📧 kalyanreddy16243@gmail.com  
-💼 https://www.linkedin.com/in/kalyan-reddy-satti-205774226/  
-💻 https://github.com/KalyanReddy605  
+💼 LinkedIn: kalyan-reddy-satti-205774226  
+💻 GitHub: KalyanReddy605  
 
 ---
 
-⭐ Open to backend engineering opportunities and collaboration.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A66C2&height=120&section=footer"/>
+</p>
